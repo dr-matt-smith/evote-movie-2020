@@ -67,6 +67,8 @@ The website is about movies and user voted stars
     
 - Movie Charts - DB Many-to-many relationship
 
+- different user ROLES
+
 - Sticky forms if validation error
 - Web user testing (acceptance testing with Codeception)
 
