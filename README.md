@@ -31,13 +31,18 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2020-03-front-controller
       
+4. Added Twig library to the project and converted page templates
+
+    - use Composer to add `twig/twig` library to project
+    - add a Twig object in `MainController` constructor
+    - rename all files in `/templates` folder in form `<PAGE>.html.twig`
+    - update `MainController` methods to use `Twig` object to create and print HTML for each template
+    
+    - https://github.com/dr-matt-smith/evote-movie-2020-04-twig-templates
 
 ## Steps todo ... 
 
-    
-- Twig templates
-
-- Header and Footer
+- Twig master page template and child-page inheritenacve 
       - remove common header and nav content to `_header.php`     
       - remove common footer content to `_footer.php`
       - add `require_once` to all pages to read in common header and footer
