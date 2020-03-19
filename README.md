@@ -12,14 +12,16 @@ The website is about movies and user voted stars
     
     - https://github.com/dr-matt-smith/evote-movie-2020-01-basic-html
 
-
-
-## Steps todo ... 
-
-- Change HTML to PHP
+2. Change HTML to PHP
       - change all `.html` file extension to `.php` 
       - in every page change the navigtion links to files ending with `.php`
       
+      - https://github.com/dr-matt-smith/evote-movie-2020-02-all-files-dot-php
+      
+
+## Steps todo ... 
+
+
 
 - Add Front Controller PHP OO architecture
       - move all display pages into folder `/templates`
