@@ -14,22 +14,25 @@ The website is about movies and user voted stars
 
 2. Change HTML to PHP
       - change all `.html` file extension to `.php` 
-      - in every page change the navigtion links to files ending with `.php`
+      - in every page change the navigation links to files ending with `.php`
       
       - https://github.com/dr-matt-smith/evote-movie-2020-02-all-files-dot-php
+
+3. Add Front Controller PHP OO architecture
+      - move all display pages into folder `/templates`
+      - move images and css into new folder `/public`
+      - add root website script `/public/index.php` to create `WebApplication` object and invoke `run()` method
+      - change all navigation links to the form `/index.php?action=<PAGE>`
+         - e.g. `/index.php?action=about` for link to about page
+      - create `src` folder containing classes `WebApplication` and `MainController`
+      - create `WebApplication` class to test for value of `GET` variable `action` and choose which `MainController` method to invoke
+      - create `MainController` class with methods to display each of the page templates
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-03-front-controller
       
 
 ## Steps todo ... 
 
-
-
-- Add Front Controller PHP OO architecture
-      - move all display pages into folder `/templates`
-      - move images and css into new folder `/public`
-      - add Front Controller script `/public/index.php` to test for GET variable `action`
-      - change all navigation links to the form `/index.php?action=<PAGE>`
-         - e.g. `/index.php?action=about` for link to about page
-         
     
 - Twig templates
 
