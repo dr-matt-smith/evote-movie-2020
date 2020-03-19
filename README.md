@@ -71,19 +71,7 @@ The website is about movies and user voted stars
 
 ## Steps todo ... 
 
-
-
-- List details from array
-
-- Movies list from a Repository class
-
-- List details from array of objects
-
-- Move controller functions into a controller class
-
-- List details from array of objects from DB
-
-- Page to insert new movies into the datbase
+- Page to insert new movies into the database
 
 - Links to delete movies from the database
 
@@ -99,8 +87,12 @@ The website is about movies and user voted stars
 
 - different user ROLES
 
+- public comments form
+
 - Sticky forms if validation error
+
 - Web user testing (acceptance testing with Codeception)
+
 
 
 
