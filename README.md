@@ -27,6 +27,7 @@ The website is about movies and user voted stars
       - create `src` folder containing classes `WebApplication` and `MainController`
       - create `WebApplication` class to test for value of `GET` variable `action` and choose which `MainController` method to invoke
       - create `MainController` class with methods to display each of the page templates
+      - create `composer.json` to define PHP namespaced `Tudublin` classes in `/src`
 
     - https://github.com/dr-matt-smith/evote-movie-2020-03-front-controller
       
