@@ -50,14 +50,16 @@ The website is about movies and user voted stars
     - NOTE: we have lost and current page nav indicator - we'll fix this soon :-)
 
     - https://github.com/dr-matt-smith/evote-movie-2020-05-twig-base-template-inheritance
-      
+
+6. Use Twig blocks for CSS style to indicate current page indicated in nav bar CSS
+
+    - controller functions to pass values
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-06-twig-current-page-block
+
+
 ## Steps todo ... 
 
-- Current page name in HTML title
-        - controller functions to pass values
-
-- Current page indicated in nav bar CSS
-        - controller functions to pass values
 
 - List details from array
 
