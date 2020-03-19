@@ -57,8 +57,14 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2020-06-twig-current-page-block
 
+7. List details from array of `Movie` objects
+
+    - declare a PHP class `Movie` and pass an array of `Movie` objects to the movie list Twig page, and loop through to create table
+    
+    - https://github.com/dr-matt-smith/evote-movie-2020-07-movie-class-loop
 
 ## Steps todo ... 
+
 
 
 - List details from array
