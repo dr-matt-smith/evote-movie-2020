@@ -40,14 +40,19 @@ The website is about movies and user voted stars
     
     - https://github.com/dr-matt-smith/evote-movie-2020-04-twig-templates
 
+
+5. Twig master page template and child-page inheritance 
+    - move all common header and nav and footer content to `/templates/_base.html.twig`
+    - define overridable head `title` Twig block in base template
+    - define overridable `main` Twig block in base template
+    - make all other template pages extend base and override `main` Twig block    
+    
+    - NOTE: we have lost and current page nav indicator - we'll fix this soon :-)
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-05-twig-base-template-inheritance
+      
 ## Steps todo ... 
 
-- Twig master page template and child-page inheritenacve 
-      - remove common header and nav content to `_header.php`     
-      - remove common footer content to `_footer.php`
-      - add `require_once` to all pages to read in common header and footer
-      - NOTE: we have lost title page name and current page nav indicator - we'll fix this soon :-)
-      
 - Current page name in HTML title
         - controller functions to pass values
 
