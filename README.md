@@ -63,6 +63,12 @@ The website is about movies and user voted stars
     
     - https://github.com/dr-matt-smith/evote-movie-2020-07-movie-class-loop
 
+8. Add PDO DB library and get Movies from database table
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-08-movie-db-table
+    
+
+
 ## Steps todo ... 
 
 
