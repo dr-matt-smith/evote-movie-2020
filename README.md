@@ -83,20 +83,23 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2020-12-controller-superclass
         
+13. Login to protect the database CRUD
 
+    - https://github.com/dr-matt-smith/evote-movie-2020-13-login-security
 
 ## Steps todo ... 
 
+- login username/password in DB
+
+- hashed passwords in DB
 
 - List CHEAP movies - custom SQL method in Repository class
 
-- Login to protect the database CRUD
-    
 - Movie-Category - DB many-to-one relationship
     
 - Movie Charts - DB Many-to-many relationship
 
-- different user ROLES
+- different user ROLES - users can post comments ...
 
 - public comments form
 
