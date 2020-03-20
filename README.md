@@ -67,17 +67,23 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2020-08-movie-db-table
     
+9. Links to delete movies from the database
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-09-link-delete
+    
+10. Form to create new Movies and insert them into DB
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-10-create-movie
 
 
 ## Steps todo ... 
 
-- Page to insert new movies into the database
-
-- Links to delete movies from the database
 
 - Link and form to EDIT movies
 
 - List CHEAP movies - custom SQL method in Repository class
+
+- controller superclass, creating Twig object
     
 - Login to protect the database CRUD
     
