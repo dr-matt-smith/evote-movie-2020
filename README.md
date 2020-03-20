@@ -5,7 +5,7 @@ This is a sequence of progressive enhancements, taking a static HTML site into a
 
 The website is about movies and user voted stars.
 
-![screenshot list of moives](movielist.png)
+![screenshot list of moives](screenshots/movieList.png)
 
 ## Progressive enhancement 
 
