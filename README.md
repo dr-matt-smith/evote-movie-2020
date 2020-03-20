@@ -71,15 +71,18 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2020-09-link-delete
     
-10. Form to create new Movies and insert them into DB
+10. Form to CREATE new Movies and insert them into DB
 
     - https://github.com/dr-matt-smith/evote-movie-2020-10-create-movie
+
+11. Form to EDIT movies
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-11-edit-movie
+
 
 
 ## Steps todo ... 
 
-
-- Link and form to EDIT movies
 
 - List CHEAP movies - custom SQL method in Repository class
 
