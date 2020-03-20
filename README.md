@@ -3,7 +3,9 @@
 ## About
 This is a sequence of progressive enhancements, taking a static HTML site into an authenticated modern PHP MVC website
 
-The website is about movies and user voted stars
+The website is about movies and user voted stars.
+
+![screenshot list of moives](movielist.png)
 
 ## Progressive enhancement 
 
