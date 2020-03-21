@@ -113,8 +113,6 @@ The website is about movies and user voted stars.
     
 - Movie Charts - DB Many-to-many relationship
 
-- different user ROLES - users can post comments ...
-
 - public comments form
 
 - Sticky forms if validation error
