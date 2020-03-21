@@ -96,6 +96,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-15-hashed-passwords
 
+16. Form to create new DB user
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-16-user-create
+
 
 ## Steps todo ... 
 
