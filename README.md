@@ -100,6 +100,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-16-user-create
 
+17. Different logged-in user ROLES, so only ADMIN can create new users
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-17-user-roles
+
 
 ## Steps todo ... 
 
