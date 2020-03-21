@@ -21,15 +21,15 @@ The website is about movies and user voted stars.
       - https://github.com/dr-matt-smith/evote-movie-2020-02-all-files-dot-php
 
 3. Add Front Controller PHP OO architecture
-      - move all display pages into folder `/templates`
-      - move images and css into new folder `/public`
-      - add root website script `/public/index.php` to create `WebApplication` object and invoke `run()` method
-      - change all navigation links to the form `/index.php?action=<PAGE>`
-         - e.g. `/index.php?action=about` for link to about page
-      - create `src` folder containing classes `WebApplication` and `MainController`
-      - create `WebApplication` class to test for value of `GET` variable `action` and choose which `MainController` method to invoke
-      - create `MainController` class with methods to display each of the page templates
-      - create `composer.json` to define PHP namespaced `Tudublin` classes in `/src`
+    - move all display pages into folder `/templates`
+    - move images and css into new folder `/public`
+    - add root website script `/public/index.php` to create `WebApplication` object and invoke `run()` method
+    - change all navigation links to the form `/index.php?action=<PAGE>`
+     - e.g. `/index.php?action=about` for link to about page
+    - create `src` folder containing classes `WebApplication` and `MainController`
+    - create `WebApplication` class to test for value of `GET` variable `action` and choose which `MainController` method to invoke
+    - create `MainController` class with methods to display each of the page templates
+    - create `composer.json` to define PHP namespaced `Tudublin` classes in `/src`
 
     - https://github.com/dr-matt-smith/evote-movie-2020-03-front-controller
       
@@ -41,7 +41,6 @@ The website is about movies and user voted stars.
     - update `MainController` methods to use `Twig` object to create and print HTML for each template
     
     - https://github.com/dr-matt-smith/evote-movie-2020-04-twig-templates
-
 
 5. Twig master page template and child-page inheritance 
     - move all common header and nav and footer content to `/templates/_base.html.twig`
@@ -89,9 +88,12 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-13-login-security
 
-## Steps todo ... 
+14. login username/password in DB
 
-- login username/password in DB
+    - https://github.com/dr-matt-smith/evote-movie-2020-14-db-users
+
+
+## Steps todo ... 
 
 - hashed passwords in DB
 
