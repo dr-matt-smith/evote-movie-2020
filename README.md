@@ -92,10 +92,12 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-14-db-users
 
+15. Hashed passwords in the DB 
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-15-hashed-passwords
+
 
 ## Steps todo ... 
-
-- hashed passwords in DB
 
 - List CHEAP movies - custom SQL method in Repository class
 
