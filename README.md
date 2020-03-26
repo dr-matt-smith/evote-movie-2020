@@ -108,6 +108,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-18-separate-modules
 
+19. Using 3rd-party **Faker** library to generate lots of test Fixture data
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-19-faker-test-data
+
 
 ## Steps todo ... 
 
