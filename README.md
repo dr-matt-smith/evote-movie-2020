@@ -104,6 +104,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-17-user-roles
 
+18. Adding in `module` variable (in addition to `action`) to improve structure for larger sites
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-18-separate-modules
+
 
 ## Steps todo ... 
 
@@ -115,7 +119,7 @@ The website is about movies and user voted stars.
 
 - public comments form
 
-- Sticky forms if validation error
+- Sticky forms if validation error & list of validation errors
 
 - Web user testing (acceptance testing with Codeception)
 
