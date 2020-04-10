@@ -112,9 +112,14 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-19-faker-test-data
 
+
 20. Publish website to Fortrabbit PAAS - PHP-As-A-Service
 
     - https://github.com/dr-matt-smith/evote-movie-2020-20-publish-to-fortrabbit
+
+21. Move DB constants into ".env" file
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-21-dotenv-constants
 
 
 ## Steps todo ... 
