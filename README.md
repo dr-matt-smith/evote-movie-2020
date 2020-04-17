@@ -125,6 +125,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-22-public-comments
 
+23. Sticky forms and list of validation errors for New Movie form submission:
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-23-sticky-form-validation
+
 
 ## Steps todo ... 
 
@@ -133,8 +137,6 @@ The website is about movies and user voted stars.
 - Movie-Category - DB many-to-one relationship
     
 - Movie Charts - DB Many-to-many relationship
-
-- Sticky forms if validation error & list of validation errors
 
 - Web user testing (acceptance testing with Codeception)
 
