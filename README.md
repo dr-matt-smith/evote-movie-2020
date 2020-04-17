@@ -121,6 +121,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-21-dotenv-constants
 
+22. Allow public (non-logged-in) users to post comments on the movie list page:
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-22-public-comments
+
 
 ## Steps todo ... 
 
@@ -129,8 +133,6 @@ The website is about movies and user voted stars.
 - Movie-Category - DB many-to-one relationship
     
 - Movie Charts - DB Many-to-many relationship
-
-- public comments form
 
 - Sticky forms if validation error & list of validation errors
 
