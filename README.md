@@ -129,6 +129,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-23-sticky-form-validation
 
+24. Example of Codeception automated acceptance testing (simulating users clicking links and submitting forms):
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-24-codeception-testing
+
 
 ## Steps todo ... 
 
@@ -137,8 +141,6 @@ The website is about movies and user voted stars.
 - Movie-Category - DB many-to-one relationship
     
 - Movie Charts - DB Many-to-many relationship
-
-- Web user testing (acceptance testing with Codeception)
 
 
 
