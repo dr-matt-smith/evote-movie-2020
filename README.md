@@ -133,6 +133,11 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-24-codeception-testing
 
+25. Resetting database before and after each test in Codeception
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-25-db-reset
+
+
 
 ## Steps todo ... 
 
