@@ -137,6 +137,9 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-25-single-reset-db-script
 
+26. Associate Comment with logged-in user (if a user *was* logged-in)
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-26-comment-user-association
 
 
 
