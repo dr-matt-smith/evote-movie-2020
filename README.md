@@ -133,7 +133,7 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-24-codeception-testing
 
-25. Sticky forms and list of validation errors for New Movie form submission:
+25. Single master script to run all the DB migrations and fixtures
 
     - https://github.com/dr-matt-smith/evote-movie-2020-25-single-reset-db-script
 
