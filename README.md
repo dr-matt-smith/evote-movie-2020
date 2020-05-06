@@ -137,18 +137,19 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-25-single-reset-db-script
 
-26. Associate Comment with logged-in user (if a user *was* logged-in)
+26. Associate Comment with logged-in user (if a user *was* logged-in) (one-to-one association)
 
     - https://github.com/dr-matt-smith/evote-movie-2020-26-comment-user-association
 
+27. Movie-Category Many-to-one association
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-27-movie-category-many-to-one
 
 
 ## Steps todo ... 
 
 - List CHEAP movies - custom SQL method in Repository class
 
-- Movie-Category - DB many-to-one relationship
-    
 - Movie Charts - DB Many-to-many relationship
 
 
