@@ -149,6 +149,10 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-28-gitpod
 
+WIP: 29. current attempt to get working in Github **Codespaces** online virtual machine
+
+    - https://github.com/dr-matt-smith/evote-movie-2020-29-github-codespaces-attempt
+
 ## Steps todo ... 
 
 - List CHEAP movies - custom SQL method in Repository class
