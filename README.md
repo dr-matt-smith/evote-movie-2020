@@ -149,7 +149,7 @@ The website is about movies and user voted stars.
 
     - https://github.com/dr-matt-smith/evote-movie-2020-28-gitpod
 
-WIP: 29. current attempt to get working in Github **Codespaces** online virtual machine
+29. current attempt to get working in Github **Codespaces** online virtual machine (work in progress)
 
     - https://github.com/dr-matt-smith/evote-movie-2020-29-github-codespaces-attempt
 
