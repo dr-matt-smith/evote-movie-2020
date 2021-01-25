@@ -7,6 +7,13 @@ The website is about movies and user voted stars.
 
 ![screenshot list of moives](screenshots/movieList.png)
 
+## An OO-PHP first appraoch
+
+DB-drive websites in PHP are much simpler when programming in Object-Oriented PHP, so that's the approach taken here.
+If you've not programmed with an OO language before, you may wish to first work through the 2019 version of this case study:
+
+[https://github.com/dr-matt-smith/evote-movie-2019](https://github.com/dr-matt-smith/evote-movie-2019)
+
 ## Progressive enhancement 
 
 1. Starting point
